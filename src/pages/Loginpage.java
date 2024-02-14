@@ -6,6 +6,7 @@ public class Loginpage {
 		String uname="admin";
 		String pwd="admin";
 		System.out.println("user loggedin");
+		System.out.println("user loggedout");
 	}
 
 }

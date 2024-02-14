@@ -1,6 +1,12 @@
 package pages;
 
 public class Searchpage {
-	System.out.println("Hello searchpage");
+ 
+	public static void main(String [] args) {
+		System.out.println("Hello searchpage");
+		System.out.println("Bye");
+
+
+	}
 
 }
